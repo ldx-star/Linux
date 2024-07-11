@@ -1,0 +1,4 @@
+hello printf 1
+hello fprintf 1
+hello fputs 1
+hello cout 1

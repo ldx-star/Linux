@@ -1,0 +1,10 @@
+total 44
+drwxrwxr-x  2 ldx ldx  4096 7月  10 21:50 .
+drwxrwxr-x 13 ldx ldx  4096 7月  11 09:36 ..
+-rw-rw-rw-  1 ldx ldx    90 7月  10 21:50 log1.txt
+-rw-rw-rw-  1 ldx ldx     0 7月  10 11:44 log2.txt
+-rw-rw-rw-  1 ldx ldx     0 7月  11 09:55 log3.txt
+-rw-rw-rw-  1 ldx ldx   460 7月  11 09:48 log4.txt
+-rw-rw-r--  1 ldx ldx    70 7月   5 10:16 Makefile
+-rwxrwxr-x  1 ldx ldx 16936 7月  10 21:50 mytest
+-rw-rw-r--  1 ldx ldx  1063 7月  10 21:49 test.c

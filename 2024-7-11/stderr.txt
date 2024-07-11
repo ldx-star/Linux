@@ -1,0 +1,4 @@
+hello fprintf 2
+hello fputs 2
+hello perror 2: Success
+hello cerr 2
