@@ -1,5 +1,5 @@
-BlockQueue:BlockQueue.cc
+RingQueue:RingQueue.cc
 	g++ -o $@ $^ -lpthread
 .PHONY:clean
 clean:
-	rm -rf BlockQueue
+	rm -rf RingQueue
